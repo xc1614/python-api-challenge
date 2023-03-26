@@ -1,6 +1,8 @@
-# Byte-compiled / optimized / DLL files
 #Adding config.py file.
-api_keys.py
+config.py
+
+# Byte-compiled / optimized / DLL files
+
 __pycache__/
 *.py[cod]
 *$py.class
